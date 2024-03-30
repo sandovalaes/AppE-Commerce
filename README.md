@@ -1,4 +1,4 @@
-# Instalat paquete Validator para validar los emails
+# Instalar paquete Validator para validar los emails
 npm install validator
 
 # Getting Started with Create React App
