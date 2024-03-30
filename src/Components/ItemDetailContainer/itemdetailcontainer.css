@@ -1,0 +1,26 @@
+.contenedor{
+    display: flex;
+    justify-content: center;
+}
+
+.descripcion{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:flex-start;
+    text-align: justify;
+}
+
+.ImageContent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.imagen{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 90%;
+    height: 90%;
+}
